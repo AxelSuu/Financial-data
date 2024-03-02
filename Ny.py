@@ -1,0 +1,1 @@
+print("Hello, I am Ny. I am a Python file.")
